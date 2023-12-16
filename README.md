@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrushikeshahire12
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning mern stack.
+- 🌱 I’m currently doing internship as a mern stack developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8108895109.
 
